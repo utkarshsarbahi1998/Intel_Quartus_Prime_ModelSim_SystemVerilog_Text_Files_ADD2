@@ -4,4 +4,4 @@
 
 ### 1. PS/2 Port
 
-### 2. 
+### 2. Sequence Detector
