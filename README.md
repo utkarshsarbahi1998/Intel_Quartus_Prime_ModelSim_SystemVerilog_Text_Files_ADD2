@@ -5,3 +5,5 @@
 ### 1. PS/2 Port
 
 ### 2. Sequence Detector
+
+### 3. UART with Flash Memory
