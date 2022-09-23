@@ -7,3 +7,5 @@
 ### 2. Sequence Detector
 
 ### 3. UART with Flash Memory
+
+### 4. Liquid-Crystal Display
